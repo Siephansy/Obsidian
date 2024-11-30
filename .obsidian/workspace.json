@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "ccb8d84b47c672cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ba11413fcda144f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92cdf8c9785187e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dayly.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dayly"
+            }
+          },
+          {
+            "id": "c319339730a29430",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dois.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dois"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13387a3f7746419a",
+    "type": "split",
+    "children": [
+      {
+        "id": "76373105587c4b72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c96f1f16e7feb3fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "f01392ce4f79028a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "50dd8ff13360df13",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ec8d6a00fff0f0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "05eb96cbb25cb200",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2eb4afaa7c367405",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dois.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para dois"
+            }
+          },
+          {
+            "id": "ddeebba46e731fee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dois.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para dois"
+            }
+          },
+          {
+            "id": "50abf8e50bb7f522",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dois.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de dois"
+            }
+          },
+          {
+            "id": "cab0a0823ee90323",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "b5eb9d039ea81e41",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
+            }
+          },
+          {
+            "id": "104cc855ff235915",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Smart Chat Conversation View"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "2c94ffb59694cd87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00fa5470a0335c7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      },
+      {
+        "id": "112fda4c7f6146ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09b9eaae46cde770",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "graph:Abrir visualização em gráfico": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-kanban:Criar um novo quadro": false,
+      "card-board:CardBoard": false,
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "smart-connections:Open: View Smart Connections": false
+    }
+  },
+  "active": "c319339730a29430",
+  "lastOpenFiles": [
+    "Dayly.md",
+    "smart-chats",
+    "dois.md",
+    "receitas.md"
+  ]
+}
